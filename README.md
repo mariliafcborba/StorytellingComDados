@@ -1,5 +1,5 @@
 # StorytellingComDados
-✨Insights do livro Storytelling com Dados de Cole Nussbaumer Knaflic:
+✨Insights do livro Storytelling com Dados da autora Cole Nussbaumer Knaflic:
 
 ✅ <strong>Compreendendo a importância da história:</strong> A importância de ter uma história sólida ao apresentar dados. Em vez de apenas fornecer informações, é fundamental construir uma narrativa que envolva o público e transmita uma mensagem clara.
 
@@ -13,4 +13,4 @@
 
 ✅ <strong>Reforço do ciclo de feedback:</strong> Compartilhar suas narrativas com outras pessoas e buscar seus insights para melhorar a clareza e eficácia da mensagem.
 
-⚠ <i>Se você está interessado em aprimorar suas habilidades de visualização de dados e criar histórias impactantes, este livro pode ser uma leitura valiosa.</i> 💜
+⚠ <i>Se você está interessado em aprimorar suas habilidades de visualização de dados e criar histórias impactantes, este livro pode ser uma leitura valiosa. Recomendo!</i> 💜
