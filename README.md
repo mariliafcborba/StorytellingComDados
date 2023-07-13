@@ -13,4 +13,4 @@
 
 ✅ <strong>Reforço do ciclo de feedback:</strong> Compartilhar suas narrativas com outras pessoas e buscar seus insights para melhorar a clareza e eficácia da mensagem.
 
-⚠ <i>Se você está interessado em aprimorar suas habilidades de visualização de dados e criar histórias impactantes, este livro pode ser uma leitura valiosa. Recomendo!</i> 💜
+⚠ <i>Se você está interessado em aprimorar suas habilidades de visualização de dados e criar histórias impactantes, este livro pode ser uma leitura valiosa. Recomendo! (Inclusive para consulta no dia a dia)</i> 💜
